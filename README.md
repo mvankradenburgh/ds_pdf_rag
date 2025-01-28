@@ -7,7 +7,7 @@ You can watch the video on how it was built on my [YouTube](https://youtu.be/M6v
 Install Ollama on your local machine from the [official website](https://ollama.com/). And then pull the Deepseek model:
 
 ```bash
-ollama pull deepseek-r1:14b
+ollama pull deepseek-r1:8b
 ```
 
 Install the dependencies using pip:
